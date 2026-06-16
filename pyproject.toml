@@ -27,7 +27,7 @@ dev = ["pytest>=8.0", "pytest-asyncio>=0.23", "ruff>=0.6"]
 
 [project.urls]
 Homepage = "https://perimeter.example"
-Source = "https://github.com/youruser/perimeter-scan"
+Source = "https://github.com/MrAbubaker1/perimeter-scan"
 
 [project.scripts]
 perimeter-scan = "perimeter_scan.cli:main"

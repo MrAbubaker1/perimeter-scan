@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 
-DEFAULT_USER_AGENT = "perimeter-scan/0.1 (+https://github.com/youruser/perimeter-scan)"
+DEFAULT_USER_AGENT = "perimeter-scan/0.1 (+https://github.com/MrAbubaker1/perimeter-scan)"
 
 
 @dataclass(slots=True)
