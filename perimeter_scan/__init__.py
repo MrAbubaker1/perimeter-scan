@@ -9,7 +9,7 @@ from perimeter_scan.models import Asset, AssetKind, Finding, ScanResult
 from perimeter_scan.scanner import passive_scan
 from perimeter_scan.severity import Severity
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 __all__ = [
     "passive_scan",
