@@ -1,6 +1,6 @@
 [project]
 name = "perimeter-scan"
-version = "0.1.0"
+version = "0.1.1"
 description = "Passive external attack-surface scanner — find your exposed subdomains, expiring certs, missing security headers, and dangling DNS before attackers do."
 readme = "README.md"
 license = { text = "MIT" }
