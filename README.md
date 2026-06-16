@@ -65,13 +65,13 @@ for f in result.findings:
 
 ## A one-time scan is a snapshot. Your attack surface changes every deploy.
 
-`perimeter-scan` is the open-source scanner behind **[Perimeter](https://perimeter.example)**.
+`perimeter-scan` is the open-source scanner behind **[Perimeter](https://perimeter-hq.com)**.
 The CLI tells you what's exposed *right now*. Perimeter runs it continuously, remembers
 what it saw last time, and **alerts you the moment something new appears** — a fresh
 subdomain, a cert about to lapse, a dangling record someone could hijack — so you find
 it before anyone else does.
 
-→ **[Monitor your domain continuously](https://perimeter.example)**
+→ **[Monitor your domain continuously](https://perimeter-hq.com)**
 
 ## License
 

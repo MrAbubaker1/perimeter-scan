@@ -7,7 +7,7 @@ import json
 from perimeter_scan.models import ScanResult
 from perimeter_scan.severity import Severity
 
-DEFAULT_FUNNEL_URL = "https://perimeter.example"
+DEFAULT_FUNNEL_URL = "https://perimeter-hq.com"
 
 _SEV_ANSI = {
     Severity.INFO: "\033[90m",       # grey

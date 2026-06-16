@@ -21,7 +21,7 @@ def test_text_contains_findings_and_funnel():
     assert "CRITICAL" in out
     assert "Potential subdomain takeover (Heroku)" in out
     assert "blog.example.com" in out
-    assert "perimeter.example" in out  # the funnel CTA
+    assert "perimeter-hq.com" in out  # the funnel CTA
 
 
 def test_min_severity_filters():
